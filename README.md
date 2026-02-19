@@ -1,2 +1,2 @@
-# Exercícios propostos pela faculdade
+# Exercícios propostos pela faculdade e projetos pessoais.
 
